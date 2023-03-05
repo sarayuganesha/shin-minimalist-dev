@@ -5,4 +5,3 @@ gemspec
 
 gem 'wdm'
 gem 'jekyll-paginate'
-gem 'github-pages'
