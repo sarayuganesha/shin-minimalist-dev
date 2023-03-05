@@ -1,0 +1,83 @@
+body {
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 20px;
+	font-family: 'Tahoma',sans-serif   ;
+	font-size: 100%;
+	line-height: 150%;
+}
+
+a:link, a.visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover	{
+	text-decoration: underline;
+}
+
+#navigation {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	padding-top: 0px;
+	border-bottom: 1px solid #000000;
+}
+
+#navigation a:link, #navigation a:visited	{
+	text-decoration: none;
+	color:#000000;
+}
+
+#navigation a:hover	{
+	text-decoration: none;
+}
+
+#default-layout {
+	width: 80%;
+	margin: 0 auto;
+}
+
+#content {
+	text-align: justify;
+	margin-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+
+#content a:link, #content a:visited	{
+	text-decoration: underline;
+	color:#000000;
+}
+
+#content a:hover	{
+	text-decoration: none;
+}
+
+#footer {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	padding-bottom :5px;
+	padding-top: 0px;
+	border-top: 1px solid grey;
+}
+
+#footer a:link, #footer a:visited	{
+	text-decoration: none;
+	color:#000000;
+}
+
+#footer a:hover	{
+	text-decoration: none;
+}
+
+.pagination {
+	text-align: center;
+
+}
+
+.previous .next {
+	text-decoration: none;
+}

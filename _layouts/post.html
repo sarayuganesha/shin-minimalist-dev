@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include header.html %}
+  <body>
+	<div id="default-layout">
+  	{% include navigation.html %}
+		<div id="content">
+      <div id="post">
+        <h2>{{ page.title }}</h2>
+               {{ content }}
+               {{page.date | date: "%-b %d %Y"}}
+          </p>
+          </div>
+  		</div>
+		{% include footer.html %}
+  </div>
+    </body>
+</html>

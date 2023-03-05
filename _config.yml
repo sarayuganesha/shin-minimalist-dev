@@ -1,0 +1,26 @@
+title: Shin Minimalist
+owner: Sarayu Ganesha
+email:
+description: A simple Jekyll theme for blogging.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: shin-minimalist
+
+# to test the site on your local network and other devices, uncomment line 11. Enter your IPv4 address.
+# then go to address:4000 on device.
+#host: 0.0.0.0
+
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+ - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
+
+# below you can uncomment if you plan to specifiy and user additional gems. No additional gems are needed to run site.
+#gems:

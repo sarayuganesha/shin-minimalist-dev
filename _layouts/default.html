@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    {% include header.html %}
+    <body>
+        <div id="default-layout">
+            {% include navigation.html %}
+            <div id="content">
+                <h2>{{paginator.title}}</h2>
+                {{content}}
+            </div>
+            {% include footer.html %}
+        </div>
+    </body>
+</html>
