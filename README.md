@@ -1,6 +1,6 @@
 # Shin Minimalist
 
-Shin Minimalist was designed to be a simple and lightwight <a href="http://jekyllrb.com/>">Jekyll<a> theme. Emphazing text based blogging in a minimalist fashion. Only having the bare necesities with capabilites to expand and make site more complex. Using <a href="https://github.com/Trybnetic/minimalist">Minimalist</a> theme as the template. 
+Shin Minimalist was designed to be a simple and lightweight <a href="http://jekyllrb.com/>">Jekyll<a> theme. Emphazing text based blogging in a minimalist fashion. Only having the bare necesities with capabilites to expand and make site more complex. Using <a href="https://github.com/Trybnetic/minimalist">Minimalist</a> theme as the template. 
 
 ## Installation
 
