@@ -2,15 +2,13 @@ title: Shin Minimalist
 owner: Sarayu Ganesha
 email:
 description: A simple Jekyll theme for blogging.
-baseurl: "/shin-minimalist-dev" # the subpath of your site, e.g. /blog
-url: "https://github.com/sarayuganesha" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 theme: shin-minimalist
 
 # to test the site on your local network and other devices, uncomment line 11. Enter your IPv4 address.
 # then go to address:4000 on device.
 #host: 0.0.0.0
-
-
 
 exclude:
   - Gemfile
